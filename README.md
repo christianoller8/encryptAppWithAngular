@@ -1,3 +1,7 @@
+# Preview
+
+![Captura de pantalla 2024-02-09 a las 18 00 28](https://github.com/christianoller8/encryptAppWithAngular/assets/105523995/ca817ab5-0c06-4553-a055-5788376fda6b)
+
 # EncryptionProgram
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.3.
